@@ -5,5 +5,5 @@
 -   [x] Preprocessing Data
 -   [x] Build Model
 -   [x] Write Server
--   [ ] Write Client
+-   [x] Write Client
 -   [ ] Deploy Model
